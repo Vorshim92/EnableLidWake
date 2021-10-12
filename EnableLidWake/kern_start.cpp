@@ -28,6 +28,8 @@ PluginConfiguration ADDPR(config) {
     // minKernel: 10.10 - maxKernel: 10.14+
     KernelVersion::Yosemite,
     KernelVersion::Mojave,
+    KernelVersion::Catalina,
+    KernelVersion::Big Sur,
     // now let's get start
     []() {
         elw.init();
