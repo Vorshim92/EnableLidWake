@@ -1,5 +1,9 @@
 EnableLidWake Changelog
 ==============
+### v4.0.3
+
+- Add support for Big Sur
+
 ### v4.0.2
 
 - Reduced module string length less than 10 due to  ```SYSTRACE_COND``` constraint
